@@ -1,5 +1,5 @@
 # finetuning-smollm
-Fine tuning a SmolLM-135M-Instruct-bnb-4bit Model locally for Ollama
+Fine tuning a SmolLM-135M-Instruct-bnb-4bit Model and running with Ollama
 # Google Collaboratory notebook
 https://colab.research.google.com/drive/1WfQOdsVEJpp_aTnL6CxTbFpqGdM7YOAH#scrollTo=twEmkIrLZLtD
 # Ollama commands for downloaded Model from Colab notebook
